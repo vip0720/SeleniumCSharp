@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PageObjectModel", "..\PageObjectModel\PageObjectModel.csproj", "{9D11E8A6-975D-4999-9201-B88CC7CA4299}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PageObjectModel", "src\PageObjectModel\PageObjectModel.csproj", "{9D11E8A6-975D-4999-9201-B88CC7CA4299}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject1", "..\TestProject1\TestProject1.csproj", "{FEFBF774-F3EA-44A8-830A-8221E70B7BC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject1", "src\TestProject1\TestProject1.csproj", "{FEFBF774-F3EA-44A8-830A-8221E70B7BC7}"
 	ProjectSection(ProjectDependencies) = postProject
 		{9D11E8A6-975D-4999-9201-B88CC7CA4299} = {9D11E8A6-975D-4999-9201-B88CC7CA4299}
 	EndProjectSection
